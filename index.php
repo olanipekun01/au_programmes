@@ -44,7 +44,7 @@
                                 <h5>Closes: 31/08/2024</h5>
                 
                                 <div class="btn_wrapper">
-                                    <a href="apply.achievers.edu.ng">Apply Now</a>
+                                    <a href="https://apply.achievers.edu.ng">Apply Now</a>
                                     <a href="" class="learn_more">Learn More</a>
                                 </div>
                             </div>
@@ -60,6 +60,6 @@
     </div>
 
 
-    <footer>&copy Achievers programme website | Developed by Webmaster:AU-ICT <i>Eyitayo Olonilua, oloniluaeyitayo@gmail.com</i></footer>
+    <footer>&copy Achievers programme website | Developed and Managed by: Webmaster AU-ICT <i>Eyitayo Olonilua, oloniluaeyitayo@gmail.com</i></footer>
 </body>
 </html>
