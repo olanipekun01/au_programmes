@@ -144,7 +144,7 @@ header .logos_content span {
     max-width: 320px;
     border-radius: 7px;
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
-
+    margin-right: 5px;
     margin-bottom: 60px;
 }
 
@@ -237,7 +237,7 @@ footer i {
 @media (max-width:1110px) {
     .card_wrapper {
         /* background: var(--green); */
-        padding: 4.2rem 1%;
+        padding: 4.2rem 0.5%;
         flex-wrap: wrap;
     }
 }

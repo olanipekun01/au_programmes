@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="achieverslogo-removebg-preview.png" type="image/x-icon">
     <title>AUO Programmes</title>
 
     <link rel="stylesheet" href="./style/style.css">
@@ -45,7 +46,22 @@
                 
                                 <div class="btn_wrapper">
                                     <a href="https://apply.achievers.edu.ng">Apply Now</a>
-                                    <a href="" class="learn_more">Learn More</a>
+                                    <?php
+                                    if ($programme["faculty"] == "School Of Postgraduate Studies")
+                                    {
+                                    ?>
+                                    <a href="https://achievers.edu.ng/postgraduate_study/" class="learn_more">Requirements</a>
+                                    <?php
+                                    }
+                                    else
+                                    {
+                                    ?>
+                                        <a href="https://achievers.edu.ng/undergraduate_programmes/" class="learn_more">Requirements</a>
+                                    <?php
+                                    }
+                                    ?>  
+                                    
+                                    
                                 </div>
                             </div>
                         </div>
