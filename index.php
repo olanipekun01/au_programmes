@@ -38,7 +38,7 @@
                             <div class="card_body">
                                 <h2><?php echo $programme["courses"][$i]["course"] ?></h2>
                 
-                                <p class="card_text">Faculty: <?php echo $programme["faculty"] ?></p>
+                                <p class="card_text"><?php echo $programme["faculty"] ?></p>
                 
                                 <p class="card_text_ii ">Session: 2024/2025</p>
                 
